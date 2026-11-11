@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-chat-bot",
+  "version": "1.0.0",
+  "description": "Headless Minecraft bot that sends a chat message every 5 minutes",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.23.0"
+  }
+}
